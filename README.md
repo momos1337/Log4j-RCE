@@ -9,6 +9,7 @@ php log4j.php https://1337.com/
 #### Requirements
 - PHP CURL
 - PAYLOAD
+- DNS LOG (Collaborator Burpsuite or use dnslog.cn)
 
 #### Special Thanks
 - Hidden Ghost Team
