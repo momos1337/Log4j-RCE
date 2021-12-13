@@ -3,7 +3,7 @@ Log4j RCE - (CVE-2021-44228)
 
 ### How To Run?
 ```sh
-php log4j.php https://1337.com/
+php log4j.php https://1337.com
 ```
 
 #### Requirements
@@ -60,7 +60,8 @@ ${marker}
 ${marker:name}
 ${spring:profiles.active[0]
 ${sys:logPath}
-${web:rootDir}```
+${web:rootDir}
+```
 
 #### Special Thanks
 - Hidden Ghost Team
